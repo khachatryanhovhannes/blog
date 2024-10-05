@@ -1,0 +1,10 @@
+# Go binary files
+*.exe
+*.exe~
+*.out
+
+# Logs
+*.log
+
+# Environment variables
+.env
